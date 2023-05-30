@@ -1,5 +1,5 @@
 {
-  "name": "palindrome",
+  "name": "gvo-palindrome",
   "version": "0.1.0",
   "description": "Palindrome detector",
   "main": "index.js",
@@ -14,9 +14,8 @@
     "url": "git+https://github.com/gvo-viana/palindrome.git"
   },
   "keywords": [
-    "javascript",
     "palindrome",
-    "test",
+    "javascript",
     "mocha"
   ],
   "author": "Gustavo Alx Viana",
